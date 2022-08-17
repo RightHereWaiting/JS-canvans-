@@ -1,0 +1,29 @@
+#canvas1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    height: 100px;
+}
+#canvas1{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    height: 100px;
+}
+#animations{
+    left: 47%;
+    top: 200px;
+    position: absolute;
+}
+#person{
+    left:47%;
+    top:160px;
+    position: absolute;
+}
+.controls,select,option{
+ font-size: 26px;
+}
